@@ -1,0 +1,3 @@
+# Oracle cascade update
+
+Create a procedure that creates a trigger (triggers) that ensure referential integrity in cascading update mode between two tables or between a table with itself on all available links. Connections can be composite. Table names are entered as parameters. If no connection exists, a corresponding message should be displayed. Provide for the possibility of having several subordinate tables in the main table. Check the operation of the trigger when changing multiple records simultaneously with a single UPDATE command.
